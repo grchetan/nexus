@@ -11,8 +11,8 @@
 
 ### A Professional Networking Platform — Built from Scratch
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-2563EB?style=for-the-badge)](https://nexus-app.vercel.app)
-[![Made by Chetan](https://img.shields.io/badge/Made_by-Chetan_Prajapat-06B6D4?style=for-the-badge&logo=github)](https://github.com/chetanprajapat)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-2563EB?style=for-the-badge)](https://nexus-ly76pli9r-grchetans-projects.vercel.app/)
+[![Made by Chetan](https://img.shields.io/badge/Made_by-Chetan_Prajapat-06B6D4?style=for-the-badge&logo=github)](https://github.com/grchetan)
 [![License MIT](https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge)](./LICENSE)
 
 <br/>
@@ -340,12 +340,7 @@ This project is under the **MIT License** — free to use, modify, and share.
 
 <div align="center">
 
-**Built with ❤️ by [Chetan Prajapat](https://github.com/chetanprajapat)**
+**Built with ❤️ by [Chetan Prajapat](https://github.com/grchetan)**
 
-*Indore, Madhya Pradesh, India 🇮🇳*
-
-<br/>
-
-*If this project helped you in any way, a ⭐ would mean a lot — it keeps me motivated to keep building!*
 
 </div>
